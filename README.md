@@ -1,4 +1,4 @@
-# bolts-n-aces
+# Bolts N' Aces
 
 
 a custom Minecraft mod for friends made by a beginner, bunch of inside jokes and memery inside.
